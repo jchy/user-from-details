@@ -1,0 +1,114 @@
+{
+  "usersData": [
+    {
+      "name": "Jaswant Chaudhary",
+      "age": "21",
+      "address": "Siddharthnagar",
+      "gender": "M",
+      "department": "IT",
+      "salary": "2100000",
+      "maritalStatus": false,
+      "image": "blob:http://localhost:3001/f9960d9f-5567-45d1-a1fa-23379b0bcb93",
+      "id": 1
+    },
+    {
+      "name": "Aman",
+      "age": "29",
+      "address": "Banglore",
+      "gender": "M",
+      "department": "Management",
+      "salary": "99",
+      "maritalStatus": true,
+      "image": "blob:http://localhost:3001/6290eae5-ecc0-4ab3-8273-067bdb8d9ff9",
+      "id": 2
+    },
+    {
+      "name": "Anamika Gupta",
+      "age": "20",
+      "address": "Jalaun",
+      "gender": "F",
+      "department": "Director",
+      "salary": "259999",
+      "maritalStatus": false,
+      "image": null,
+      "id": 3
+    },
+    {
+      "name": "Satya",
+      "age": "23",
+      "address": "Kushinagar",
+      "gender": "M",
+      "department": "Stakeholder",
+      "salary": "299999",
+      "maritalStatus": true,
+      "image": null,
+      "id": 4
+    },
+    {
+      "name": "Albert",
+      "age": "43",
+      "address": "Banglore",
+      "gender": "M",
+      "department": "Stakeholder",
+      "salary": "4300000",
+      "maritalStatus": true,
+      "image": null,
+      "id": 5
+    },
+    {
+      "name": "Prateek",
+      "age": "45",
+      "address": "Kanpur",
+      "gender": "M",
+      "department": "Director",
+      "salary": "4299999",
+      "maritalStatus": true,
+      "image": null,
+      "id": 6
+    },
+    {
+      "name": "Nrupul",
+      "age": "54",
+      "address": "Tamilnadu",
+      "gender": "M",
+      "department": "Stakeholder",
+      "salary": "999999",
+      "maritalStatus": true,
+      "image": null,
+      "id": 7
+    },
+    {
+      "name": "Yogesh",
+      "age": "85",
+      "address": "Kerla",
+      "gender": "M",
+      "department": "Construction",
+      "salary": "12999",
+      "maritalStatus": true,
+      "image": null,
+      "id": 8
+    },
+    {
+      "name": "Gargi Seharawat",
+      "age": "18",
+      "address": "U.P.",
+      "gender": "F",
+      "department": "Construction",
+      "salary": "9999999",
+      "maritalStatus": true,
+      "image": null,
+      "id": 9
+    },
+    {
+      "name": "Aakash",
+      "age": "21",
+      "address": "Rajasthan",
+      "gender": "M",
+      "department": "IT",
+      "salary": "199998",
+      "maritalStatus": false,
+      "image": null,
+      "id": 10
+    }
+  ]
+}
